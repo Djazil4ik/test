@@ -1,11 +1,1 @@
-Hello
-World
-
-Awesome
-Text
-
-Hello 
-World
-
-Adding
-lines
+Go file for Mamc
